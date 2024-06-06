@@ -51,5 +51,6 @@
 - Exercising 3 days a week
 
 ### 🤗  About Me | 关于我
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiliChen&count_private=true&theme=shadow_blue&show_icons=true&line_height=30px&hide=contribs,prs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiliChen&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***Welcome to be friends with me and share the joy of open source. I'll be happy to meet you!😊***

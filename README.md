@@ -1,5 +1,5 @@
 ## 👋 Hi there
-<h1 align="center">Hi there <img src="https://github.com/QiliChen/QiliChen/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Qili Chen
+<h1 align="center">Hi there <img src="https://github.com/QiliChen/QiliChen/blob/main/Assets/Hi.gif" width="40px">, I'm Qili Chen
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/QiliChen/githubSNK/656f7202bfb13d7383bc610e429a42902a31fc3f/github-contribution-grid-snake.svg)
 </h1>

@@ -43,6 +43,7 @@
 - [基于React + NextJs + Sanity的短视频分享网站(TikTik)](https://github.com/QiliChen/tiktik)
 - [基于Gin + Gorm的考试系统(ExaminationSystem)](https://github.com/QiliChen/examinationSystem)
 - [基于Python + Github Actions的网页爬取工具(AutoLicense)](https://github.com/QiliChen/AutoLicense)
+- [基于Tampermonkey的油猴选课脚本(Sandau-Elective-Courses)](https://github.com/QiliChen/Sandau-Elective-Courses)
 - ...
 
 ### 💪 Things I am challenging myself with |  我正在挑战自己的事情
